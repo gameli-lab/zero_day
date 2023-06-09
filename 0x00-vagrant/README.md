@@ -1,1 +1,1 @@
-"This readme is foe the  hello ubuntu project task."
+"This readme is for the  hello ubuntu project task."
